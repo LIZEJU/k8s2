@@ -1,6 +1,6 @@
 ---
-description: pod扩容，节点扩容
+description: README.md
 ---
 
-# k8s自动缩容扩容
+# README
 
